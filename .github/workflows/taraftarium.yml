@@ -1,0 +1,52 @@
+name: Taraftarium24 M3U8
+
+permissions:
+  contents: write   # Push izni için kritik satır
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Her saat başı otomatik çalışır
+  workflow_dispatch:     # GitHub panelinden manuel çalıştırma butonu açar
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies and Playwright Browsers
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run taraftarium24.py
+        run: python taraftarium24.py
+
+      - name: Commit changes
+        run: |
+          git add taraftarium24_kanallar.m3u8 || git add .
+          git commit -m "Auto-update m3u8 files - $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+
+      - name: Pull remote changes safely
+        run: |
+          git fetch origin main
+          git rebase origin/main || git rebase --abort
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} main
