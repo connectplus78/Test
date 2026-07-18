@@ -1,27 +1,7 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-ORIGIN:https://mahsunsports.xyz
-# OLUŞTURULMA ZAMANI: 17.07.2026 23:39:04
-#EXTINF:-1 tvg-name="[04:00] Brezilya - Polonya" group-title="Maç Yayınları",[04:00] Brezilya - Polonya
-https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="[04:00] A.Miura - V.Souza" group-title="Maç Yayınları",[04:00] A.Miura - V.Souza
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[04:30] S.Zakirov - R.Satiev" group-title="Maç Yayınları",[04:30] S.Zakirov - R.Satiev
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[05:00] L.Adiwang - A.Cesar" group-title="Maç Yayınları",[05:00] L.Adiwang - A.Cesar
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[05:30] B.Masunyane - L.Seung Cheol" group-title="Maç Yayınları",[05:30] B.Masunyane - L.Seung Cheol
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[06:00] F.Lobo - D.Kovtun" group-title="Maç Yayınları",[06:00] F.Lobo - D.Kovtun
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[06:30] B.Panther - S.Climaco" group-title="Maç Yayınları",[06:30] B.Panther - S.Climaco
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[07:00] J.Radzuan - A.Nikolakakos" group-title="Maç Yayınları",[07:00] J.Radzuan - A.Nikolakakos
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[07:30] S.Pran49 - S.Irvine" group-title="Maç Yayınları",[07:30] S.Pran49 - S.Irvine
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="[08:00] L.Lessei - M.Younes Rabah" group-title="Maç Yayınları",[08:00] L.Lessei - M.Younes Rabah
-https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
+# OLUŞTURULMA ZAMANI: 18.07.2026 07:11:21
 #EXTINF:-1 tvg-name="[11:00] Sprint Yarişi" group-title="Maç Yayınları",[11:00] Sprint Yarişi
 https://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="[12:00] R.Collignon - J.Cerundolo" group-title="Maç Yayınları",[12:00] R.Collignon - J.Cerundolo
@@ -94,122 +74,128 @@ https://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="[22:00] İspanya - Arjantin" group-title="Maç Yayınları",[22:00] İspanya - Arjantin
 https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 tvg-name="Ümraniyespor - Galatasaray" group-title="Maç Yayınları",Ümraniyespor - Galatasaray
+#EXTINF:-1 tvg-name="[08:15] Altona Magic - Heidelberg United" group-title="Maç Yayınları",[08:15] Altona Magic - Heidelberg United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715045.m3u8
+#EXTINF:-1 tvg-name="[08:15] South Melbourne - Preston Lions" group-title="Maç Yayınları",[08:15] South Melbourne - Preston Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715048.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide University (Bayanlar) - Campbelltown City (Bayanlar)" group-title="Maç Yayınları",[08:30] Adelaide University (Bayanlar) - Campbelltown City (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715152.m3u8
+#EXTINF:-1 tvg-name="[08:30] West Adelaide - Sturt Lions" group-title="Maç Yayınları",[08:30] West Adelaide - Sturt Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715144.m3u8
+#EXTINF:-1 tvg-name="[08:30] Playford City Patriots - NE MetroStars" group-title="Maç Yayınları",[08:30] Playford City Patriots - NE MetroStars
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715160.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Atletico - Adelaide Olympic" group-title="Maç Yayınları",[08:30] Adelaide Atletico - Adelaide Olympic
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715173.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Blue Eagles - Adelaide Cobras" group-title="Maç Yayınları",[08:30] Adelaide Blue Eagles - Adelaide Cobras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715169.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Raiders - Eastern United" group-title="Maç Yayınları",[08:30] Adelaide Raiders - Eastern United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715165.m3u8
+#EXTINF:-1 tvg-name="[08:30] Salisbury United - Modbury Jets" group-title="Maç Yayınları",[08:30] Salisbury United - Modbury Jets
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715175.m3u8
+#EXTINF:-1 tvg-name="[08:30] South Adelaide Panthers - The Cove" group-title="Maç Yayınları",[08:30] South Adelaide Panthers - The Cove
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715171.m3u8
+#EXTINF:-1 tvg-name="[08:30] Playford City Patriots - North Eastern MetroStars" group-title="Maç Yayınları",[08:30] Playford City Patriots - North Eastern MetroStars
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430653.m3u8
+#EXTINF:-1 tvg-name="[08:30] West Adelaide - Sturt Lions" group-title="Maç Yayınları",[08:30] West Adelaide - Sturt Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430621.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Raiders - Eastern United" group-title="Maç Yayınları",[08:30] Adelaide Raiders - Eastern United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430663.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Blue Eagles - Adelaide Cobras" group-title="Maç Yayınları",[08:30] Adelaide Blue Eagles - Adelaide Cobras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430671.m3u8
+#EXTINF:-1 tvg-name="[08:30] South Adelaide Panthers - The Cove FC" group-title="Maç Yayınları",[08:30] South Adelaide Panthers - The Cove FC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430675.m3u8
+#EXTINF:-1 tvg-name="[08:30] Salisbury United - Modbury Jets" group-title="Maç Yayınları",[08:30] Salisbury United - Modbury Jets
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430683.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Victory - Adelaide Olympic" group-title="Maç Yayınları",[08:30] Adelaide Victory - Adelaide Olympic
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430679.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide University SC (w) - Campbelltown City (w)" group-title="Maç Yayınları",[08:30] Adelaide University SC (w) - Campbelltown City (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430637.m3u8
+#EXTINF:-1 tvg-name="[08:30] Flinders United (res.-w) - Adelaide Comets (res.-w)" group-title="Maç Yayınları",[08:30] Flinders United (res.-w) - Adelaide Comets (res.-w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429077.m3u8
+#EXTINF:-1 tvg-name="[08:30] Birkenhead United - Melville United" group-title="Maç Yayınları",[08:30] Birkenhead United - Melville United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430929.m3u8
+#EXTINF:-1 tvg-name="[09:00] Bulleen Lions (Bayanlar) - Heidelberg United (Bayanlar)" group-title="Maç Yayınları",[09:00] Bulleen Lions (Bayanlar) - Heidelberg United (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715362.m3u8
+#EXTINF:-1 tvg-name="[09:00] Gold Coast Knights - WDSC Wolves" group-title="Maç Yayınları",[09:00] Gold Coast Knights - WDSC Wolves
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715363.m3u8
+#EXTINF:-1 tvg-name="[09:00] Bulleen Lions (w) - Heidelberg United (w)" group-title="Maç Yayınları",[09:00] Bulleen Lions (w) - Heidelberg United (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431057.m3u8
+#EXTINF:-1 tvg-name="[09:00] Auckland FC (res.) - Fencibles United" group-title="Maç Yayınları",[09:00] Auckland FC (res.) - Fencibles United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431465.m3u8
+#EXTINF:-1 tvg-name="[09:15] Hume City U-23 - Oakleigh Cannons U-23" group-title="Maç Yayınları",[09:15] Hume City U-23 - Oakleigh Cannons U-23
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429393.m3u8
+#EXTINF:-1 tvg-name="[09:30] WT Birkalla (Bayanlar) - Salisbury Inter (Bayanlar)" group-title="Maç Yayınları",[09:30] WT Birkalla (Bayanlar) - Salisbury Inter (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715586.m3u8
+#EXTINF:-1 tvg-name="[09:30] Moreton City Excelsior - Peninsula Power" group-title="Maç Yayınları",[09:30] Moreton City Excelsior - Peninsula Power
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715592.m3u8
+#EXTINF:-1 tvg-name="[09:30] Weston Bears - Kahibah" group-title="Maç Yayınları",[09:30] Weston Bears - Kahibah
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715587.m3u8
+#EXTINF:-1 tvg-name="[09:30] Weston Workers Bears - Kahibah FC" group-title="Maç Yayınları",[09:30] Weston Workers Bears - Kahibah FC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431507.m3u8
+#EXTINF:-1 tvg-name="[09:30] West Torrens Birkalla (w) - Salisbury Inter (w)" group-title="Maç Yayınları",[09:30] West Torrens Birkalla (w) - Salisbury Inter (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431505.m3u8
+#EXTINF:-1 tvg-name="[09:45] Launceston City - Kingborough Lions" group-title="Maç Yayınları",[09:45] Launceston City - Kingborough Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715699.m3u8
+#EXTINF:-1 tvg-name="[09:45] Launceston City FC - Kingborough Lions" group-title="Maç Yayınları",[09:45] Launceston City FC - Kingborough Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429789.m3u8
+#EXTINF:-1 tvg-name="[10:00] Perth RedStar FC - Fremantle City" group-title="Maç Yayınları",[10:00] Perth RedStar FC - Fremantle City
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431961.m3u8
+#EXTINF:-1 tvg-name="[10:00] Balcatta FC - Stirling Macedonia" group-title="Maç Yayınları",[10:00] Balcatta FC - Stirling Macedonia
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431959.m3u8
+#EXTINF:-1 tvg-name="[10:00] Perth Glory (youth) - Armadale SC" group-title="Maç Yayınları",[10:00] Perth Glory (youth) - Armadale SC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39432013.m3u8
+#EXTINF:-1 tvg-name="[10:00] Olympic FC Brisbane (w) - Gold Coast United (w)" group-title="Maç Yayınları",[10:00] Olympic FC Brisbane (w) - Gold Coast United (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431985.m3u8
+#EXTINF:-1 tvg-name="[10:00] Floreat Athena - Quinns FC" group-title="Maç Yayınları",[10:00] Floreat Athena - Quinns FC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39432159.m3u8
+#EXTINF:-1 tvg-name="İspanya - Arjantin" group-title="Maç Yayınları",İspanya - Arjantin
 https://andro.evrenesoglu57.click/checklist/androstreamlivechNone.m3u8
-#EXTINF:-1 tvg-name="[00:45] San Lorenzo - Deportivo Riestra" group-title="Maç Yayınları",[00:45] San Lorenzo - Deportivo Riestra
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712349.m3u8
-#EXTINF:-1 tvg-name="[00:45] CA San Lorenzo - Deportivo Riestra" group-title="Maç Yayınları",[00:45] CA San Lorenzo - Deportivo Riestra
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425031.m3u8
-#EXTINF:-1 tvg-name="[01:00] Juventude - Cuiaba" group-title="Maç Yayınları",[01:00] Juventude - Cuiaba
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712397.m3u8
-#EXTINF:-1 tvg-name="[01:00] America Mineiro - Ceara" group-title="Maç Yayınları",[01:00] America Mineiro - Ceara
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712398.m3u8
-#EXTINF:-1 tvg-name="[01:00] Sao Bernardo FC - Avai" group-title="Maç Yayınları",[01:00] Sao Bernardo FC - Avai
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712483.m3u8
-#EXTINF:-1 tvg-name="[01:00] EC Juventude - Cuiaba EC" group-title="Maç Yayınları",[01:00] EC Juventude - Cuiaba EC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425127.m3u8
-#EXTINF:-1 tvg-name="[01:00] Sao Bernardo FC - Avai FC" group-title="Maç Yayınları",[01:00] Sao Bernardo FC - Avai FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425299.m3u8
-#EXTINF:-1 tvg-name="[01:00] America Mineiro - Ceara SC" group-title="Maç Yayınları",[01:00] America Mineiro - Ceara SC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425129.m3u8
-#EXTINF:-1 tvg-name="[01:00] Corinthians (w) - Ferroviaria (w)" group-title="Maç Yayınları",[01:00] Corinthians (w) - Ferroviaria (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425237.m3u8
-#EXTINF:-1 tvg-name="[01:00] Tanabi EC U-20 - Sfera FC Ltda SP U-20" group-title="Maç Yayınları",[01:00] Tanabi EC U-20 - Sfera FC Ltda SP U-20
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425253.m3u8
-#EXTINF:-1 tvg-name="[01:30] Ferro Carril Oeste - Colon" group-title="Maç Yayınları",[01:30] Ferro Carril Oeste - Colon
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712565.m3u8
-#EXTINF:-1 tvg-name="[01:30] EC Bahia - Chapecoense" group-title="Maç Yayınları",[01:30] EC Bahia - Chapecoense
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425481.m3u8
-#EXTINF:-1 tvg-name="[01:30] Nacional Montevideo - Montevideo Wanderers" group-title="Maç Yayınları",[01:30] Nacional Montevideo - Montevideo Wanderers
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425693.m3u8
-#EXTINF:-1 tvg-name="[01:30] Marilia AC - Gremio Prudente" group-title="Maç Yayınları",[01:30] Marilia AC - Gremio Prudente
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425571.m3u8
-#EXTINF:-1 tvg-name="[02:00] Fluminense RJ - RB Bragantino" group-title="Maç Yayınları",[02:00] Fluminense RJ - RB Bragantino
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425773.m3u8
-#EXTINF:-1 tvg-name="[02:00] Mirassol - Gremio FBPA" group-title="Maç Yayınları",[02:00] Mirassol - Gremio FBPA
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425775.m3u8
-#EXTINF:-1 tvg-name="[02:00] Ciudad de Bolivar - All Boys" group-title="Maç Yayınları",[02:00] Ciudad de Bolivar - All Boys
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426049.m3u8
-#EXTINF:-1 tvg-name="[02:00] Supra du Quebec - Vancouver Langley FC" group-title="Maç Yayınları",[02:00] Supra du Quebec - Vancouver Langley FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425953.m3u8
-#EXTINF:-1 tvg-name="[02:00] Toronto FC II - FC Cincinnati II" group-title="Maç Yayınları",[02:00] Toronto FC II - FC Cincinnati II
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425951.m3u8
-#EXTINF:-1 tvg-name="[02:00] Vermont Green FC - Ironbound SC" group-title="Maç Yayınları",[02:00] Vermont Green FC - Ironbound SC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425975.m3u8
-#EXTINF:-1 tvg-name="[02:00] Flamengo CR - Olimpia Asuncion" group-title="Maç Yayınları",[02:00] Flamengo CR - Olimpia Asuncion
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425993.m3u8
-#EXTINF:-1 tvg-name="[02:17] Maras - Stelsoff" group-title="Maç Yayınları",[02:17] Maras - Stelsoff
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712925.m3u8
-#EXTINF:-1 tvg-name="[02:17] PSV (Amatörler) - Ajax (Amatörler)" group-title="Maç Yayınları",[02:17] PSV (Amatörler) - Ajax (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712857.m3u8
-#EXTINF:-1 tvg-name="[02:20] Lampone (3x3) - Fiore (3x3)" group-title="Maç Yayınları",[02:20] Lampone (3x3) - Fiore (3x3)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712988.m3u8
-#EXTINF:-1 tvg-name="[02:21] IT - MECH" group-title="Maç Yayınları",[02:21] IT - MECH
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712900.m3u8
-#EXTINF:-1 tvg-name="[02:23] Portonuevo (2x2) - Presto (2x2)" group-title="Maç Yayınları",[02:23] Portonuevo (2x2) - Presto (2x2)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712969.m3u8
-#EXTINF:-1 tvg-name="[02:30] Flint City Bucks - Buffalo" group-title="Maç Yayınları",[02:30] Flint City Bucks - Buffalo
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426315.m3u8
-#EXTINF:-1 tvg-name="[02:37] Panzhihua - Dingxi" group-title="Maç Yayınları",[02:37] Panzhihua - Dingxi
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712992.m3u8
-#EXTINF:-1 tvg-name="[02:38] FOSSIL - ENERGY" group-title="Maç Yayınları",[02:38] FOSSIL - ENERGY
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712901.m3u8
-#EXTINF:-1 tvg-name="[02:43] Flamengo - Club Olimpia" group-title="Maç Yayınları",[02:43] Flamengo - Club Olimpia
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712830.m3u8
-#EXTINF:-1 tvg-name="[02:43] Barracudas - Outlaws" group-title="Maç Yayınları",[02:43] Barracudas - Outlaws
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712935.m3u8
-#EXTINF:-1 tvg-name="[02:50] Hansa (Amatörler) - Greuther Furth (Amatörler)" group-title="Maç Yayınları",[02:50] Hansa (Amatörler) - Greuther Furth (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712968.m3u8
-#EXTINF:-1 tvg-name="[02:51] Feyenoord (Amatörler) - Groningen (Amatörler)" group-title="Maç Yayınları",[02:51] Feyenoord (Amatörler) - Groningen (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712996.m3u8
-#EXTINF:-1 tvg-name="[02:53] Louisville + - Tulsa +" group-title="Maç Yayınları",[02:53] Louisville + - Tulsa +
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712939.m3u8
-#EXTINF:-1 tvg-name="[02:56] Mainz (Amatörler) - Hoffenheim (Amatörler)" group-title="Maç Yayınları",[02:56] Mainz (Amatörler) - Hoffenheim (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712967.m3u8
-#EXTINF:-1 tvg-name="[01:30] Vera Сruz Campinas (w) - SESI Araraquara (w)" group-title="Maç Yayınları",[01:30] Vera Сruz Campinas (w) - SESI Araraquara (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425625.m3u8
-#EXTINF:-1 tvg-name="[02:13] Peru (TBL) - Malaysia (TBL)" group-title="Maç Yayınları",[02:13] Peru (TBL) - Malaysia (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712723.m3u8
-#EXTINF:-1 tvg-name="[02:15] Olimpia Montevideo - Verdirrojo Montevideo" group-title="Maç Yayınları",[02:15] Olimpia Montevideo - Verdirrojo Montevideo
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426113.m3u8
-#EXTINF:-1 tvg-name="[02:15] Club Atletico Marne - CS Deportivo Sayago" group-title="Maç Yayınları",[02:15] Club Atletico Marne - CS Deportivo Sayago
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426115.m3u8
-#EXTINF:-1 tvg-name="[02:15] Tabare - Olivol Mundial" group-title="Maç Yayınları",[02:15] Tabare - Olivol Mundial
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425971.m3u8
-#EXTINF:-1 tvg-name="[02:18] IPBL Barracudas - IPBL Huskies" group-title="Maç Yayınları",[02:18] IPBL Barracudas - IPBL Huskies
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712986.m3u8
-#EXTINF:-1 tvg-name="[02:20] Surgut - Kurgan" group-title="Maç Yayınları",[02:20] Surgut - Kurgan
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712730.m3u8
-#EXTINF:-1 tvg-name="[02:29] Unimed Campinas (Bayanlar) - Araraquara (Bayanlar)" group-title="Maç Yayınları",[02:29] Unimed Campinas (Bayanlar) - Araraquara (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712646.m3u8
-#EXTINF:-1 tvg-name="[02:30] İtalya (TBL) - Meksika (TBL)" group-title="Maç Yayınları",[02:30] İtalya (TBL) - Meksika (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712724.m3u8
-#EXTINF:-1 tvg-name="[02:30] Indiana Fever (w) - Seattle Storm (w)" group-title="Maç Yayınları",[02:30] Indiana Fever (w) - Seattle Storm (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426145.m3u8
-#EXTINF:-1 tvg-name="[02:30] Toronto Tempo (w) - Atlanta Dream (w)" group-title="Maç Yayınları",[02:30] Toronto Tempo (w) - Atlanta Dream (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426141.m3u8
-#EXTINF:-1 tvg-name="[02:15] ABD (Bayanlar) - İtalya (Bayanlar)" group-title="Maç Yayınları",[02:15] ABD (Bayanlar) - İtalya (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712899.m3u8
-#EXTINF:-1 tvg-name="[02:16] Türkiye (Bayanlar) - İtalya (Bayanlar)" group-title="Maç Yayınları",[02:16] Türkiye (Bayanlar) - İtalya (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712278.m3u8
-#EXTINF:-1 tvg-name="[02:19] İtalya - Brezilya" group-title="Maç Yayınları",[02:19] İtalya - Brezilya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712089.m3u8
-#EXTINF:-1 tvg-name="[02:30] Molniya (4x4) - Dinamo (4x4)" group-title="Maç Yayınları",[02:30] Molniya (4x4) - Dinamo (4x4)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712228.m3u8
-#EXTINF:-1 tvg-name="[02:41] ABD - Arjantin" group-title="Maç Yayınları",[02:41] ABD - Arjantin
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712867.m3u8
-#EXTINF:-1 tvg-name="[02:42] Çin - Rusya" group-title="Maç Yayınları",[02:42] Çin - Rusya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712638.m3u8
-#EXTINF:-1 tvg-name="[02:49] İtalya - Sırbistan" group-title="Maç Yayınları",[02:49] İtalya - Sırbistan
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712617.m3u8
-#EXTINF:-1 tvg-name="[02:55] Paraguay (Pro) - Kanada (Pro)" group-title="Maç Yayınları",[02:55] Paraguay (Pro) - Kanada (Pro)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712864.m3u8
-#EXTINF:-1 tvg-name="[02:56] Japonya - İtalya" group-title="Maç Yayınları",[02:56] Japonya - İtalya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712794.m3u8
-#EXTINF:-1 tvg-name="[02:59] Burkina Faso (Bayanlar) - Gana (Bayanlar)" group-title="Maç Yayınları",[02:59] Burkina Faso (Bayanlar) - Gana (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712649.m3u8
-#EXTINF:-1 tvg-name="[01:08] Aleksandar Vukic - Alexis Galarneau" group-title="Maç Yayınları",[01:08] Aleksandar Vukic - Alexis Galarneau
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425275.m3u8
+#EXTINF:-1 tvg-name="[09:30] Shanghai Jiaotong University (w) - Zhejiang Chouzhou Golden Bulls (w)" group-title="Maç Yayınları",[09:30] Shanghai Jiaotong University (w) - Zhejiang Chouzhou Golden Bulls (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431559.m3u8
+#EXTINF:-1 tvg-name="[10:00] Hornsby Spiders (Bayanlar) - Bankstown Bruins (Bayanlar)" group-title="Maç Yayınları",[10:00] Hornsby Spiders (Bayanlar) - Bankstown Bruins (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715797.m3u8
+#EXTINF:-1 tvg-name="[10:00] South West Metro Pirates (Bayanlar) - Mackay Meteorettes (Bayanlar)" group-title="Maç Yayınları",[10:00] South West Metro Pirates (Bayanlar) - Mackay Meteorettes (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715796.m3u8
+#EXTINF:-1 tvg-name="[10:00] Illawarra Hawks (Bayanlar) - Hills Hornets (Bayanlar)" group-title="Maç Yayınları",[10:00] Illawarra Hawks (Bayanlar) - Hills Hornets (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715790.m3u8
+#EXTINF:-1 tvg-name="[10:00] Inner West Bulls (Bayanlar) - Manly Warringah Sea (Bayanlar)" group-title="Maç Yayınları",[10:00] Inner West Bulls (Bayanlar) - Manly Warringah Sea (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715792.m3u8
+#EXTINF:-1 tvg-name="[10:00] Geelong Supe (Bayanlar) - Hobart Chargers (Bayanlar)" group-title="Maç Yayınları",[10:00] Geelong Supe (Bayanlar) - Hobart Chargers (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715795.m3u8
+#EXTINF:-1 tvg-name="[10:00] Sutherland Sharks (Bayanlar) - Norths Bears (Bayanlar)" group-title="Maç Yayınları",[10:00] Sutherland Sharks (Bayanlar) - Norths Bears (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715791.m3u8
+#EXTINF:-1 tvg-name="[10:00] Maitland Mustangs (Bayanlar) - Newcastle Falcons (Bayanlar)" group-title="Maç Yayınları",[10:00] Maitland Mustangs (Bayanlar) - Newcastle Falcons (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715794.m3u8
+#EXTINF:-1 tvg-name="[10:00] Melbourne Tigers (Bayanlar) - Eltham Wildcats (Bayanlar)" group-title="Maç Yayınları",[10:00] Melbourne Tigers (Bayanlar) - Eltham Wildcats (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715798.m3u8
+#EXTINF:-1 tvg-name="[10:00] Sutherland Sharks (w) - Norths Bears (w)" group-title="Maç Yayınları",[10:00] Sutherland Sharks (w) - Norths Bears (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431915.m3u8
+#EXTINF:-1 tvg-name="[10:00] Maitland Mustangs (w) - Newcastle Falcons (w)" group-title="Maç Yayınları",[10:00] Maitland Mustangs (w) - Newcastle Falcons (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431921.m3u8
+#EXTINF:-1 tvg-name="[10:00] Illawarra Hawks (w) - Hills Hornets (w)" group-title="Maç Yayınları",[10:00] Illawarra Hawks (w) - Hills Hornets (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431913.m3u8
+#EXTINF:-1 tvg-name="[10:00] Hornsby Spiders (w) - Bankstown Bruins (w)" group-title="Maç Yayınları",[10:00] Hornsby Spiders (w) - Bankstown Bruins (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431927.m3u8
+#EXTINF:-1 tvg-name="[10:00] South West Metro Pirates (w) - Mackay Meteorettes (w)" group-title="Maç Yayınları",[10:00] South West Metro Pirates (w) - Mackay Meteorettes (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431925.m3u8
+#EXTINF:-1 tvg-name="[10:00] Inner West Bulls (w) - Manly Warringah Sea Eagles (w)" group-title="Maç Yayınları",[10:00] Inner West Bulls (w) - Manly Warringah Sea Eagles (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431917.m3u8
+#EXTINF:-1 tvg-name="[10:00] Geelong Venom (w) - Hobart Charger (w)" group-title="Maç Yayınları",[10:00] Geelong Venom (w) - Hobart Charger (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431923.m3u8
+#EXTINF:-1 tvg-name="[10:00] Melbourne Tigers (w) - Eltham Wildcats (w)" group-title="Maç Yayınları",[10:00] Melbourne Tigers (w) - Eltham Wildcats (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431929.m3u8
+#EXTINF:-1 tvg-name="[10:00] Brisbane Capitals (w) - Southern Districts Spartans (w)" group-title="Maç Yayınları",[10:00] Brisbane Capitals (w) - Southern Districts Spartans (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431919.m3u8
+#EXTINF:-1 tvg-name="[08:55] One La Salle U-19 (w) - Arellano University High School U-19 (w)" group-title="Maç Yayınları",[08:55] One La Salle U-19 (w) - Arellano University High School U-19 (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431233.m3u8
+#EXTINF:-1 tvg-name="[10:00] Kenya Commercial Bank (w) - DCI (w)" group-title="Maç Yayınları",[10:00] Kenya Commercial Bank (w) - DCI (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39432037.m3u8
+#EXTINF:-1 tvg-name="[07:46] Bill Chan - Ammar Faleh Alhogbani" group-title="Maç Yayınları",[07:46] Bill Chan - Ammar Faleh Alhogbani
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429965.m3u8
+#EXTINF:-1 tvg-name="[07:56] Mohammad Alkotop - Ali Yazdani" group-title="Maç Yayınları",[07:56] Mohammad Alkotop - Ali Yazdani
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430053.m3u8
+#EXTINF:-1 tvg-name="[08:13] Amir Milushev - Vu Ha Minh Duc" group-title="Maç Yayınları",[08:13] Amir Milushev - Vu Ha Minh Duc
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430363.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
 https://andro.evrenesoglu57.click/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
@@ -316,122 +302,128 @@ https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Ümraniyespor - Galatasaray" group-title="Maç Yayınları",Ümraniyespor - Galatasaray
+#EXTINF:-1 tvg-name="[08:15] Altona Magic - Heidelberg United" group-title="Maç Yayınları",[08:15] Altona Magic - Heidelberg United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715045.m3u8
+#EXTINF:-1 tvg-name="[08:15] South Melbourne - Preston Lions" group-title="Maç Yayınları",[08:15] South Melbourne - Preston Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715048.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide University (Bayanlar) - Campbelltown City (Bayanlar)" group-title="Maç Yayınları",[08:30] Adelaide University (Bayanlar) - Campbelltown City (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715152.m3u8
+#EXTINF:-1 tvg-name="[08:30] West Adelaide - Sturt Lions" group-title="Maç Yayınları",[08:30] West Adelaide - Sturt Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715144.m3u8
+#EXTINF:-1 tvg-name="[08:30] Playford City Patriots - NE MetroStars" group-title="Maç Yayınları",[08:30] Playford City Patriots - NE MetroStars
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715160.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Atletico - Adelaide Olympic" group-title="Maç Yayınları",[08:30] Adelaide Atletico - Adelaide Olympic
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715173.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Blue Eagles - Adelaide Cobras" group-title="Maç Yayınları",[08:30] Adelaide Blue Eagles - Adelaide Cobras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715169.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Raiders - Eastern United" group-title="Maç Yayınları",[08:30] Adelaide Raiders - Eastern United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715165.m3u8
+#EXTINF:-1 tvg-name="[08:30] Salisbury United - Modbury Jets" group-title="Maç Yayınları",[08:30] Salisbury United - Modbury Jets
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715175.m3u8
+#EXTINF:-1 tvg-name="[08:30] South Adelaide Panthers - The Cove" group-title="Maç Yayınları",[08:30] South Adelaide Panthers - The Cove
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715171.m3u8
+#EXTINF:-1 tvg-name="[08:30] Playford City Patriots - North Eastern MetroStars" group-title="Maç Yayınları",[08:30] Playford City Patriots - North Eastern MetroStars
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430653.m3u8
+#EXTINF:-1 tvg-name="[08:30] West Adelaide - Sturt Lions" group-title="Maç Yayınları",[08:30] West Adelaide - Sturt Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430621.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Raiders - Eastern United" group-title="Maç Yayınları",[08:30] Adelaide Raiders - Eastern United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430663.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Blue Eagles - Adelaide Cobras" group-title="Maç Yayınları",[08:30] Adelaide Blue Eagles - Adelaide Cobras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430671.m3u8
+#EXTINF:-1 tvg-name="[08:30] South Adelaide Panthers - The Cove FC" group-title="Maç Yayınları",[08:30] South Adelaide Panthers - The Cove FC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430675.m3u8
+#EXTINF:-1 tvg-name="[08:30] Salisbury United - Modbury Jets" group-title="Maç Yayınları",[08:30] Salisbury United - Modbury Jets
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430683.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide Victory - Adelaide Olympic" group-title="Maç Yayınları",[08:30] Adelaide Victory - Adelaide Olympic
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430679.m3u8
+#EXTINF:-1 tvg-name="[08:30] Adelaide University SC (w) - Campbelltown City (w)" group-title="Maç Yayınları",[08:30] Adelaide University SC (w) - Campbelltown City (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430637.m3u8
+#EXTINF:-1 tvg-name="[08:30] Flinders United (res.-w) - Adelaide Comets (res.-w)" group-title="Maç Yayınları",[08:30] Flinders United (res.-w) - Adelaide Comets (res.-w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429077.m3u8
+#EXTINF:-1 tvg-name="[08:30] Birkenhead United - Melville United" group-title="Maç Yayınları",[08:30] Birkenhead United - Melville United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430929.m3u8
+#EXTINF:-1 tvg-name="[09:00] Bulleen Lions (Bayanlar) - Heidelberg United (Bayanlar)" group-title="Maç Yayınları",[09:00] Bulleen Lions (Bayanlar) - Heidelberg United (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715362.m3u8
+#EXTINF:-1 tvg-name="[09:00] Gold Coast Knights - WDSC Wolves" group-title="Maç Yayınları",[09:00] Gold Coast Knights - WDSC Wolves
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715363.m3u8
+#EXTINF:-1 tvg-name="[09:00] Bulleen Lions (w) - Heidelberg United (w)" group-title="Maç Yayınları",[09:00] Bulleen Lions (w) - Heidelberg United (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431057.m3u8
+#EXTINF:-1 tvg-name="[09:00] Auckland FC (res.) - Fencibles United" group-title="Maç Yayınları",[09:00] Auckland FC (res.) - Fencibles United
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431465.m3u8
+#EXTINF:-1 tvg-name="[09:15] Hume City U-23 - Oakleigh Cannons U-23" group-title="Maç Yayınları",[09:15] Hume City U-23 - Oakleigh Cannons U-23
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429393.m3u8
+#EXTINF:-1 tvg-name="[09:30] WT Birkalla (Bayanlar) - Salisbury Inter (Bayanlar)" group-title="Maç Yayınları",[09:30] WT Birkalla (Bayanlar) - Salisbury Inter (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715586.m3u8
+#EXTINF:-1 tvg-name="[09:30] Moreton City Excelsior - Peninsula Power" group-title="Maç Yayınları",[09:30] Moreton City Excelsior - Peninsula Power
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715592.m3u8
+#EXTINF:-1 tvg-name="[09:30] Weston Bears - Kahibah" group-title="Maç Yayınları",[09:30] Weston Bears - Kahibah
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715587.m3u8
+#EXTINF:-1 tvg-name="[09:30] Weston Workers Bears - Kahibah FC" group-title="Maç Yayınları",[09:30] Weston Workers Bears - Kahibah FC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431507.m3u8
+#EXTINF:-1 tvg-name="[09:30] West Torrens Birkalla (w) - Salisbury Inter (w)" group-title="Maç Yayınları",[09:30] West Torrens Birkalla (w) - Salisbury Inter (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431505.m3u8
+#EXTINF:-1 tvg-name="[09:45] Launceston City - Kingborough Lions" group-title="Maç Yayınları",[09:45] Launceston City - Kingborough Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715699.m3u8
+#EXTINF:-1 tvg-name="[09:45] Launceston City FC - Kingborough Lions" group-title="Maç Yayınları",[09:45] Launceston City FC - Kingborough Lions
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429789.m3u8
+#EXTINF:-1 tvg-name="[10:00] Perth RedStar FC - Fremantle City" group-title="Maç Yayınları",[10:00] Perth RedStar FC - Fremantle City
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431961.m3u8
+#EXTINF:-1 tvg-name="[10:00] Balcatta FC - Stirling Macedonia" group-title="Maç Yayınları",[10:00] Balcatta FC - Stirling Macedonia
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431959.m3u8
+#EXTINF:-1 tvg-name="[10:00] Perth Glory (youth) - Armadale SC" group-title="Maç Yayınları",[10:00] Perth Glory (youth) - Armadale SC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39432013.m3u8
+#EXTINF:-1 tvg-name="[10:00] Olympic FC Brisbane (w) - Gold Coast United (w)" group-title="Maç Yayınları",[10:00] Olympic FC Brisbane (w) - Gold Coast United (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431985.m3u8
+#EXTINF:-1 tvg-name="[10:00] Floreat Athena - Quinns FC" group-title="Maç Yayınları",[10:00] Floreat Athena - Quinns FC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39432159.m3u8
+#EXTINF:-1 tvg-name="İspanya - Arjantin" group-title="Maç Yayınları",İspanya - Arjantin
 https://andro.evrenesoglu57.click/checklist/androstreamlivechNone.m3u8
-#EXTINF:-1 tvg-name="[00:45] San Lorenzo - Deportivo Riestra" group-title="Maç Yayınları",[00:45] San Lorenzo - Deportivo Riestra
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712349.m3u8
-#EXTINF:-1 tvg-name="[00:45] CA San Lorenzo - Deportivo Riestra" group-title="Maç Yayınları",[00:45] CA San Lorenzo - Deportivo Riestra
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425031.m3u8
-#EXTINF:-1 tvg-name="[01:00] Juventude - Cuiaba" group-title="Maç Yayınları",[01:00] Juventude - Cuiaba
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712397.m3u8
-#EXTINF:-1 tvg-name="[01:00] America Mineiro - Ceara" group-title="Maç Yayınları",[01:00] America Mineiro - Ceara
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712398.m3u8
-#EXTINF:-1 tvg-name="[01:00] Sao Bernardo FC - Avai" group-title="Maç Yayınları",[01:00] Sao Bernardo FC - Avai
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712483.m3u8
-#EXTINF:-1 tvg-name="[01:00] EC Juventude - Cuiaba EC" group-title="Maç Yayınları",[01:00] EC Juventude - Cuiaba EC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425127.m3u8
-#EXTINF:-1 tvg-name="[01:00] Sao Bernardo FC - Avai FC" group-title="Maç Yayınları",[01:00] Sao Bernardo FC - Avai FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425299.m3u8
-#EXTINF:-1 tvg-name="[01:00] America Mineiro - Ceara SC" group-title="Maç Yayınları",[01:00] America Mineiro - Ceara SC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425129.m3u8
-#EXTINF:-1 tvg-name="[01:00] Corinthians (w) - Ferroviaria (w)" group-title="Maç Yayınları",[01:00] Corinthians (w) - Ferroviaria (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425237.m3u8
-#EXTINF:-1 tvg-name="[01:00] Tanabi EC U-20 - Sfera FC Ltda SP U-20" group-title="Maç Yayınları",[01:00] Tanabi EC U-20 - Sfera FC Ltda SP U-20
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425253.m3u8
-#EXTINF:-1 tvg-name="[01:30] Ferro Carril Oeste - Colon" group-title="Maç Yayınları",[01:30] Ferro Carril Oeste - Colon
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712565.m3u8
-#EXTINF:-1 tvg-name="[01:30] EC Bahia - Chapecoense" group-title="Maç Yayınları",[01:30] EC Bahia - Chapecoense
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425481.m3u8
-#EXTINF:-1 tvg-name="[01:30] Nacional Montevideo - Montevideo Wanderers" group-title="Maç Yayınları",[01:30] Nacional Montevideo - Montevideo Wanderers
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425693.m3u8
-#EXTINF:-1 tvg-name="[01:30] Marilia AC - Gremio Prudente" group-title="Maç Yayınları",[01:30] Marilia AC - Gremio Prudente
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425571.m3u8
-#EXTINF:-1 tvg-name="[02:00] Fluminense RJ - RB Bragantino" group-title="Maç Yayınları",[02:00] Fluminense RJ - RB Bragantino
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425773.m3u8
-#EXTINF:-1 tvg-name="[02:00] Mirassol - Gremio FBPA" group-title="Maç Yayınları",[02:00] Mirassol - Gremio FBPA
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425775.m3u8
-#EXTINF:-1 tvg-name="[02:00] Ciudad de Bolivar - All Boys" group-title="Maç Yayınları",[02:00] Ciudad de Bolivar - All Boys
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426049.m3u8
-#EXTINF:-1 tvg-name="[02:00] Supra du Quebec - Vancouver Langley FC" group-title="Maç Yayınları",[02:00] Supra du Quebec - Vancouver Langley FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425953.m3u8
-#EXTINF:-1 tvg-name="[02:00] Toronto FC II - FC Cincinnati II" group-title="Maç Yayınları",[02:00] Toronto FC II - FC Cincinnati II
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425951.m3u8
-#EXTINF:-1 tvg-name="[02:00] Vermont Green FC - Ironbound SC" group-title="Maç Yayınları",[02:00] Vermont Green FC - Ironbound SC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425975.m3u8
-#EXTINF:-1 tvg-name="[02:00] Flamengo CR - Olimpia Asuncion" group-title="Maç Yayınları",[02:00] Flamengo CR - Olimpia Asuncion
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425993.m3u8
-#EXTINF:-1 tvg-name="[02:17] Maras - Stelsoff" group-title="Maç Yayınları",[02:17] Maras - Stelsoff
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712925.m3u8
-#EXTINF:-1 tvg-name="[02:17] PSV (Amatörler) - Ajax (Amatörler)" group-title="Maç Yayınları",[02:17] PSV (Amatörler) - Ajax (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712857.m3u8
-#EXTINF:-1 tvg-name="[02:20] Lampone (3x3) - Fiore (3x3)" group-title="Maç Yayınları",[02:20] Lampone (3x3) - Fiore (3x3)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712988.m3u8
-#EXTINF:-1 tvg-name="[02:21] IT - MECH" group-title="Maç Yayınları",[02:21] IT - MECH
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712900.m3u8
-#EXTINF:-1 tvg-name="[02:23] Portonuevo (2x2) - Presto (2x2)" group-title="Maç Yayınları",[02:23] Portonuevo (2x2) - Presto (2x2)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712969.m3u8
-#EXTINF:-1 tvg-name="[02:30] Flint City Bucks - Buffalo" group-title="Maç Yayınları",[02:30] Flint City Bucks - Buffalo
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426315.m3u8
-#EXTINF:-1 tvg-name="[02:37] Panzhihua - Dingxi" group-title="Maç Yayınları",[02:37] Panzhihua - Dingxi
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712992.m3u8
-#EXTINF:-1 tvg-name="[02:38] FOSSIL - ENERGY" group-title="Maç Yayınları",[02:38] FOSSIL - ENERGY
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712901.m3u8
-#EXTINF:-1 tvg-name="[02:43] Flamengo - Club Olimpia" group-title="Maç Yayınları",[02:43] Flamengo - Club Olimpia
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712830.m3u8
-#EXTINF:-1 tvg-name="[02:43] Barracudas - Outlaws" group-title="Maç Yayınları",[02:43] Barracudas - Outlaws
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712935.m3u8
-#EXTINF:-1 tvg-name="[02:50] Hansa (Amatörler) - Greuther Furth (Amatörler)" group-title="Maç Yayınları",[02:50] Hansa (Amatörler) - Greuther Furth (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712968.m3u8
-#EXTINF:-1 tvg-name="[02:51] Feyenoord (Amatörler) - Groningen (Amatörler)" group-title="Maç Yayınları",[02:51] Feyenoord (Amatörler) - Groningen (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712996.m3u8
-#EXTINF:-1 tvg-name="[02:53] Louisville + - Tulsa +" group-title="Maç Yayınları",[02:53] Louisville + - Tulsa +
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712939.m3u8
-#EXTINF:-1 tvg-name="[02:56] Mainz (Amatörler) - Hoffenheim (Amatörler)" group-title="Maç Yayınları",[02:56] Mainz (Amatörler) - Hoffenheim (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712967.m3u8
-#EXTINF:-1 tvg-name="[01:30] Vera Сruz Campinas (w) - SESI Araraquara (w)" group-title="Maç Yayınları",[01:30] Vera Сruz Campinas (w) - SESI Araraquara (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425625.m3u8
-#EXTINF:-1 tvg-name="[02:13] Peru (TBL) - Malaysia (TBL)" group-title="Maç Yayınları",[02:13] Peru (TBL) - Malaysia (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712723.m3u8
-#EXTINF:-1 tvg-name="[02:15] Olimpia Montevideo - Verdirrojo Montevideo" group-title="Maç Yayınları",[02:15] Olimpia Montevideo - Verdirrojo Montevideo
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426113.m3u8
-#EXTINF:-1 tvg-name="[02:15] Club Atletico Marne - CS Deportivo Sayago" group-title="Maç Yayınları",[02:15] Club Atletico Marne - CS Deportivo Sayago
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426115.m3u8
-#EXTINF:-1 tvg-name="[02:15] Tabare - Olivol Mundial" group-title="Maç Yayınları",[02:15] Tabare - Olivol Mundial
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425971.m3u8
-#EXTINF:-1 tvg-name="[02:18] IPBL Barracudas - IPBL Huskies" group-title="Maç Yayınları",[02:18] IPBL Barracudas - IPBL Huskies
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712986.m3u8
-#EXTINF:-1 tvg-name="[02:20] Surgut - Kurgan" group-title="Maç Yayınları",[02:20] Surgut - Kurgan
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712730.m3u8
-#EXTINF:-1 tvg-name="[02:29] Unimed Campinas (Bayanlar) - Araraquara (Bayanlar)" group-title="Maç Yayınları",[02:29] Unimed Campinas (Bayanlar) - Araraquara (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712646.m3u8
-#EXTINF:-1 tvg-name="[02:30] İtalya (TBL) - Meksika (TBL)" group-title="Maç Yayınları",[02:30] İtalya (TBL) - Meksika (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712724.m3u8
-#EXTINF:-1 tvg-name="[02:30] Indiana Fever (w) - Seattle Storm (w)" group-title="Maç Yayınları",[02:30] Indiana Fever (w) - Seattle Storm (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426145.m3u8
-#EXTINF:-1 tvg-name="[02:30] Toronto Tempo (w) - Atlanta Dream (w)" group-title="Maç Yayınları",[02:30] Toronto Tempo (w) - Atlanta Dream (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39426141.m3u8
-#EXTINF:-1 tvg-name="[02:15] ABD (Bayanlar) - İtalya (Bayanlar)" group-title="Maç Yayınları",[02:15] ABD (Bayanlar) - İtalya (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712899.m3u8
-#EXTINF:-1 tvg-name="[02:16] Türkiye (Bayanlar) - İtalya (Bayanlar)" group-title="Maç Yayınları",[02:16] Türkiye (Bayanlar) - İtalya (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712278.m3u8
-#EXTINF:-1 tvg-name="[02:19] İtalya - Brezilya" group-title="Maç Yayınları",[02:19] İtalya - Brezilya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712089.m3u8
-#EXTINF:-1 tvg-name="[02:30] Molniya (4x4) - Dinamo (4x4)" group-title="Maç Yayınları",[02:30] Molniya (4x4) - Dinamo (4x4)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712228.m3u8
-#EXTINF:-1 tvg-name="[02:41] ABD - Arjantin" group-title="Maç Yayınları",[02:41] ABD - Arjantin
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712867.m3u8
-#EXTINF:-1 tvg-name="[02:42] Çin - Rusya" group-title="Maç Yayınları",[02:42] Çin - Rusya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712638.m3u8
-#EXTINF:-1 tvg-name="[02:49] İtalya - Sırbistan" group-title="Maç Yayınları",[02:49] İtalya - Sırbistan
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712617.m3u8
-#EXTINF:-1 tvg-name="[02:55] Paraguay (Pro) - Kanada (Pro)" group-title="Maç Yayınları",[02:55] Paraguay (Pro) - Kanada (Pro)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712864.m3u8
-#EXTINF:-1 tvg-name="[02:56] Japonya - İtalya" group-title="Maç Yayınları",[02:56] Japonya - İtalya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712794.m3u8
-#EXTINF:-1 tvg-name="[02:59] Burkina Faso (Bayanlar) - Gana (Bayanlar)" group-title="Maç Yayınları",[02:59] Burkina Faso (Bayanlar) - Gana (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19712649.m3u8
-#EXTINF:-1 tvg-name="[01:08] Aleksandar Vukic - Alexis Galarneau" group-title="Maç Yayınları",[01:08] Aleksandar Vukic - Alexis Galarneau
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39425275.m3u8
+#EXTINF:-1 tvg-name="[09:30] Shanghai Jiaotong University (w) - Zhejiang Chouzhou Golden Bulls (w)" group-title="Maç Yayınları",[09:30] Shanghai Jiaotong University (w) - Zhejiang Chouzhou Golden Bulls (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431559.m3u8
+#EXTINF:-1 tvg-name="[10:00] Hornsby Spiders (Bayanlar) - Bankstown Bruins (Bayanlar)" group-title="Maç Yayınları",[10:00] Hornsby Spiders (Bayanlar) - Bankstown Bruins (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715797.m3u8
+#EXTINF:-1 tvg-name="[10:00] South West Metro Pirates (Bayanlar) - Mackay Meteorettes (Bayanlar)" group-title="Maç Yayınları",[10:00] South West Metro Pirates (Bayanlar) - Mackay Meteorettes (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715796.m3u8
+#EXTINF:-1 tvg-name="[10:00] Illawarra Hawks (Bayanlar) - Hills Hornets (Bayanlar)" group-title="Maç Yayınları",[10:00] Illawarra Hawks (Bayanlar) - Hills Hornets (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715790.m3u8
+#EXTINF:-1 tvg-name="[10:00] Inner West Bulls (Bayanlar) - Manly Warringah Sea (Bayanlar)" group-title="Maç Yayınları",[10:00] Inner West Bulls (Bayanlar) - Manly Warringah Sea (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715792.m3u8
+#EXTINF:-1 tvg-name="[10:00] Geelong Supe (Bayanlar) - Hobart Chargers (Bayanlar)" group-title="Maç Yayınları",[10:00] Geelong Supe (Bayanlar) - Hobart Chargers (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715795.m3u8
+#EXTINF:-1 tvg-name="[10:00] Sutherland Sharks (Bayanlar) - Norths Bears (Bayanlar)" group-title="Maç Yayınları",[10:00] Sutherland Sharks (Bayanlar) - Norths Bears (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715791.m3u8
+#EXTINF:-1 tvg-name="[10:00] Maitland Mustangs (Bayanlar) - Newcastle Falcons (Bayanlar)" group-title="Maç Yayınları",[10:00] Maitland Mustangs (Bayanlar) - Newcastle Falcons (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715794.m3u8
+#EXTINF:-1 tvg-name="[10:00] Melbourne Tigers (Bayanlar) - Eltham Wildcats (Bayanlar)" group-title="Maç Yayınları",[10:00] Melbourne Tigers (Bayanlar) - Eltham Wildcats (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19715798.m3u8
+#EXTINF:-1 tvg-name="[10:00] Sutherland Sharks (w) - Norths Bears (w)" group-title="Maç Yayınları",[10:00] Sutherland Sharks (w) - Norths Bears (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431915.m3u8
+#EXTINF:-1 tvg-name="[10:00] Maitland Mustangs (w) - Newcastle Falcons (w)" group-title="Maç Yayınları",[10:00] Maitland Mustangs (w) - Newcastle Falcons (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431921.m3u8
+#EXTINF:-1 tvg-name="[10:00] Illawarra Hawks (w) - Hills Hornets (w)" group-title="Maç Yayınları",[10:00] Illawarra Hawks (w) - Hills Hornets (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431913.m3u8
+#EXTINF:-1 tvg-name="[10:00] Hornsby Spiders (w) - Bankstown Bruins (w)" group-title="Maç Yayınları",[10:00] Hornsby Spiders (w) - Bankstown Bruins (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431927.m3u8
+#EXTINF:-1 tvg-name="[10:00] South West Metro Pirates (w) - Mackay Meteorettes (w)" group-title="Maç Yayınları",[10:00] South West Metro Pirates (w) - Mackay Meteorettes (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431925.m3u8
+#EXTINF:-1 tvg-name="[10:00] Inner West Bulls (w) - Manly Warringah Sea Eagles (w)" group-title="Maç Yayınları",[10:00] Inner West Bulls (w) - Manly Warringah Sea Eagles (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431917.m3u8
+#EXTINF:-1 tvg-name="[10:00] Geelong Venom (w) - Hobart Charger (w)" group-title="Maç Yayınları",[10:00] Geelong Venom (w) - Hobart Charger (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431923.m3u8
+#EXTINF:-1 tvg-name="[10:00] Melbourne Tigers (w) - Eltham Wildcats (w)" group-title="Maç Yayınları",[10:00] Melbourne Tigers (w) - Eltham Wildcats (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431929.m3u8
+#EXTINF:-1 tvg-name="[10:00] Brisbane Capitals (w) - Southern Districts Spartans (w)" group-title="Maç Yayınları",[10:00] Brisbane Capitals (w) - Southern Districts Spartans (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431919.m3u8
+#EXTINF:-1 tvg-name="[08:55] One La Salle U-19 (w) - Arellano University High School U-19 (w)" group-title="Maç Yayınları",[08:55] One La Salle U-19 (w) - Arellano University High School U-19 (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39431233.m3u8
+#EXTINF:-1 tvg-name="[10:00] Kenya Commercial Bank (w) - DCI (w)" group-title="Maç Yayınları",[10:00] Kenya Commercial Bank (w) - DCI (w)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39432037.m3u8
+#EXTINF:-1 tvg-name="[07:46] Bill Chan - Ammar Faleh Alhogbani" group-title="Maç Yayınları",[07:46] Bill Chan - Ammar Faleh Alhogbani
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39429965.m3u8
+#EXTINF:-1 tvg-name="[07:56] Mohammad Alkotop - Ali Yazdani" group-title="Maç Yayınları",[07:56] Mohammad Alkotop - Ali Yazdani
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430053.m3u8
+#EXTINF:-1 tvg-name="[08:13] Amir Milushev - Vu Ha Minh Duc" group-title="Maç Yayınları",[08:13] Amir Milushev - Vu Ha Minh Duc
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39430363.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
 https://andro.evrenesoglu57.click/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
