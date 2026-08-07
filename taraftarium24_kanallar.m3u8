@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-ORIGIN:https://mahsunsports.xyz
-# OLUŞTURULMA ZAMANI: 07.08.2026 21:30:13
+# OLUŞTURULMA ZAMANI: 07.08.2026 22:26:33
 #EXTINF:-1 tvg-name="[02:00] C.Ruud - J.Fonseca" group-title="Maç Yayınları",[02:00] C.Ruud - J.Fonseca
 https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="[02:00] B.Battle - D.Rosa" group-title="Maç Yayınları",[02:00] B.Battle - D.Rosa
@@ -50,8 +50,12 @@ https://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-name="[22:30] Estrela - Sporting Lisbon" group-title="Maç Yayınları",[22:30] Estrela - Sporting Lisbon
 https://andro.evrenesoglu57.click/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="[01:15] Boca Juniors - Velez Sarsfield" group-title="Maç Yayınları",[01:15] Boca Juniors - Velez Sarsfield
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="[03:00] A.Lemos - A.Thainara" group-title="Maç Yayınları",[03:00] A.Lemos - A.Thainara
 https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="[03:00] Botafogo RJ - Fluminense" group-title="Maç Yayınları",[03:00] Botafogo RJ - Fluminense
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="[03:30] J.Miller - R.Oliveira" group-title="Maç Yayınları",[03:30] J.Miller - R.Oliveira
 https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="[04:00] S.Asplund - G.Pat" group-title="Maç Yayınları",[04:00] S.Asplund - G.Pat
@@ -112,92 +116,102 @@ https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamlivechNone.m3u8
 #EXTINF:-1 tvg-name="[00:00] Costa Rica U-20 - USA U-20" group-title="Maç Yayınları",[00:00] Costa Rica U-20 - USA U-20
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850353.m3u8
+#EXTINF:-1 tvg-name="[00:15] ABB - Guabira" group-title="Maç Yayınları",[00:15] ABB - Guabira
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925055.m3u8
 #EXTINF:-1 tvg-name="[00:15] ABB - CD Guabira" group-title="Maç Yayınları",[00:15] ABB - CD Guabira
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850443.m3u8
-#EXTINF:-1 tvg-name="[00:18] Waalwijk (Amatörler) - Volendam (Amatörler)" group-title="Maç Yayınları",[00:18] Waalwijk (Amatörler) - Volendam (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925168.m3u8
-#EXTINF:-1 tvg-name="[00:26] Greuther Furth (Amatörler) - Darmstadt (Amatörler)" group-title="Maç Yayınları",[00:26] Greuther Furth (Amatörler) - Darmstadt (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925018.m3u8
-#EXTINF:-1 tvg-name="[00:30] Unión Comercio - Academia Deportiva Cantolao" group-title="Maç Yayınları",[00:30] Unión Comercio - Academia Deportiva Cantolao
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924725.m3u8
-#EXTINF:-1 tvg-name="[00:32] PSY - MECH" group-title="Maç Yayınları",[00:32] PSY - MECH
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925129.m3u8
-#EXTINF:-1 tvg-name="[00:43] Raccoons (2x2) - Wolves (2x2)" group-title="Maç Yayınları",[00:43] Raccoons (2x2) - Wolves (2x2)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925121.m3u8
-#EXTINF:-1 tvg-name="[00:51] Galaxy+ - Fire +" group-title="Maç Yayınları",[00:51] Galaxy+ - Fire +
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925058.m3u8
-#EXTINF:-1 tvg-name="[00:58] LANDSCAPE - FOSSIL" group-title="Maç Yayınları",[00:58] LANDSCAPE - FOSSIL
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925133.m3u8
-#EXTINF:-1 tvg-name="[00:58] Hoffenheim (Amatörler) - Hannover (Amatörler)" group-title="Maç Yayınları",[00:58] Hoffenheim (Amatörler) - Hannover (Amatörler)
+#EXTINF:-1 tvg-name="[00:30] Rubio Nu - Deportivo Recoleta" group-title="Maç Yayınları",[00:30] Rubio Nu - Deportivo Recoleta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925150.m3u8
+#EXTINF:-1 tvg-name="[00:30] Rubio Nu - Deportivo Recoleta" group-title="Maç Yayınları",[00:30] Rubio Nu - Deportivo Recoleta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39850633.m3u8
+#EXTINF:-1 tvg-name="[01:00] Comunicaciones - Villa San Carlos" group-title="Maç Yayınları",[01:00] Comunicaciones - Villa San Carlos
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925396.m3u8
+#EXTINF:-1 tvg-name="[01:00] Union Espanola - CD Antofagasta" group-title="Maç Yayınları",[01:00] Union Espanola - CD Antofagasta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851027.m3u8
+#EXTINF:-1 tvg-name="[01:00] Ituzaingo - Deportivo Camioneros" group-title="Maç Yayınları",[01:00] Ituzaingo - Deportivo Camioneros
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851255.m3u8
+#EXTINF:-1 tvg-name="[01:00] Club Comunicaciones - CA Villa San Carlos" group-title="Maç Yayınları",[01:00] Club Comunicaciones - CA Villa San Carlos
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851125.m3u8
+#EXTINF:-1 tvg-name="[01:00] 12 de Junio de Villa Hayes - Deportivo Santani" group-title="Maç Yayınları",[01:00] 12 de Junio de Villa Hayes - Deportivo Santani
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851167.m3u8
+#EXTINF:-1 tvg-name="[01:00] Cerro Largo FC - Juventud de Las Piedras" group-title="Maç Yayınları",[01:00] Cerro Largo FC - Juventud de Las Piedras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39850993.m3u8
+#EXTINF:-1 tvg-name="[01:00] Tanabi EC U-20 - Palmeiras U-20" group-title="Maç Yayınları",[01:00] Tanabi EC U-20 - Palmeiras U-20
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851023.m3u8
+#EXTINF:-1 tvg-name="[01:17] Revolution + - City +" group-title="Maç Yayınları",[01:17] Revolution + - City +
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925388.m3u8
+#EXTINF:-1 tvg-name="[01:17] Charlotte + - Sacramento +" group-title="Maç Yayınları",[01:17] Charlotte + - Sacramento +
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925328.m3u8
+#EXTINF:-1 tvg-name="[01:17] Hoffenheim (Amatörler) - Hannover (Amatörler)" group-title="Maç Yayınları",[01:17] Hoffenheim (Amatörler) - Hannover (Amatörler)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19925017.m3u8
-#EXTINF:-1 tvg-name="[00:58] Montreal + - Tampa Bay +" group-title="Maç Yayınları",[00:58] Montreal + - Tampa Bay +
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925166.m3u8
-#EXTINF:-1 tvg-name="[23:15] Comerciantes Unidos - Cusco FC" group-title="Maç Yayınları",[23:15] Comerciantes Unidos - Cusco FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924711.m3u8
-#EXTINF:-1 tvg-name="[23:17] Comerciantes Unidos - Cusco FC" group-title="Maç Yayınları",[23:17] Comerciantes Unidos - Cusco FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849755.m3u8
-#EXTINF:-1 tvg-name="[23:17] Union Comercio - AD Cantolao" group-title="Maç Yayınları",[23:17] Union Comercio - AD Cantolao
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849783.m3u8
-#EXTINF:-1 tvg-name="[00:22] IPBL Scorpions - IPBL Huskies" group-title="Maç Yayınları",[00:22] IPBL Scorpions - IPBL Huskies
+#EXTINF:-1 tvg-name="[01:17] Arminia (Amatörler) - Greuther Furth (Amatörler)" group-title="Maç Yayınları",[01:17] Arminia (Amatörler) - Greuther Furth (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925359.m3u8
+#EXTINF:-1 tvg-name="[01:21] Augsburg (Amatörler) - Hoffenheim (Amatörler)" group-title="Maç Yayınları",[01:21] Augsburg (Amatörler) - Hoffenheim (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925358.m3u8
+#EXTINF:-1 tvg-name="[01:23] MINERALOGY - IT" group-title="Maç Yayınları",[01:23] MINERALOGY - IT
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925352.m3u8
+#EXTINF:-1 tvg-name="[01:27] Preto - Cruzmaltina" group-title="Maç Yayınları",[01:27] Preto - Cruzmaltina
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925383.m3u8
+#EXTINF:-1 tvg-name="[01:29] Runners - Outlaws" group-title="Maç Yayınları",[01:29] Runners - Outlaws
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925428.m3u8
+#EXTINF:-1 tvg-name="[01:31] Graafschap (Amatörler) - Excelsior (Amatörler)" group-title="Maç Yayınları",[01:31] Graafschap (Amatörler) - Excelsior (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925324.m3u8
+#EXTINF:-1 tvg-name="[01:40] 12 De Junio Villa Hayes - Deportivo Santaní" group-title="Maç Yayınları",[01:40] 12 De Junio Villa Hayes - Deportivo Santaní
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925417.m3u8
+#EXTINF:-1 tvg-name="[01:42] Unión Española - Deportes Antofagasta" group-title="Maç Yayınları",[01:42] Unión Española - Deportes Antofagasta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925347.m3u8
+#EXTINF:-1 tvg-name="[01:43] Rambala (2x2) - Presto (2x2)" group-title="Maç Yayınları",[01:43] Rambala (2x2) - Presto (2x2)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925416.m3u8
+#EXTINF:-1 tvg-name="[01:53] ENERGY - CADASTRE" group-title="Maç Yayınları",[01:53] ENERGY - CADASTRE
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925356.m3u8
+#EXTINF:-1 tvg-name="[01:54] Benxi - Dingxi" group-title="Maç Yayınları",[01:54] Benxi - Dingxi
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925394.m3u8
+#EXTINF:-1 tvg-name="[01:55] Fiore (3x3) - Zampa (3x3)" group-title="Maç Yayınları",[01:55] Fiore (3x3) - Zampa (3x3)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925419.m3u8
+#EXTINF:-1 tvg-name="[01:57] Cerro Largo FC - Juventud de Las Piedras" group-title="Maç Yayınları",[01:57] Cerro Largo FC - Juventud de Las Piedras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925330.m3u8
+#EXTINF:-1 tvg-name="[01:19] İtalya (TBL) - Malaysia (TBL)" group-title="Maç Yayınları",[01:19] İtalya (TBL) - Malaysia (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925291.m3u8
+#EXTINF:-1 tvg-name="[01:40] Meksika (TBL) - Peru (TBL)" group-title="Maç Yayınları",[01:40] Meksika (TBL) - Peru (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925288.m3u8
+#EXTINF:-1 tvg-name="[01:58] Surgut - Adler" group-title="Maç Yayınları",[01:58] Surgut - Adler
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925343.m3u8
+#EXTINF:-1 tvg-name="[01:59] IPBL Scorpions - IPBL Huskies" group-title="Maç Yayınları",[01:59] IPBL Scorpions - IPBL Huskies
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19925056.m3u8
-#EXTINF:-1 tvg-name="[00:25] REG - Patriots Kigali" group-title="Maç Yayınları",[00:25] REG - Patriots Kigali
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924465.m3u8
-#EXTINF:-1 tvg-name="[00:26] Peru (TBL) - İtalya (TBL)" group-title="Maç Yayınları",[00:26] Peru (TBL) - İtalya (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924948.m3u8
-#EXTINF:-1 tvg-name="[00:39] IPBL Vipers - IPBL Chameleons" group-title="Maç Yayınları",[00:39] IPBL Vipers - IPBL Chameleons
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924878.m3u8
-#EXTINF:-1 tvg-name="[00:43] Malaysia (TBL) - Meksika (TBL)" group-title="Maç Yayınları",[00:43] Malaysia (TBL) - Meksika (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924944.m3u8
-#EXTINF:-1 tvg-name="[00:50] Kurgan - Yakutsk" group-title="Maç Yayınları",[00:50] Kurgan - Yakutsk
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924979.m3u8
-#EXTINF:-1 tvg-name="[22:30] REG BBC - Patriots" group-title="Maç Yayınları",[22:30] REG BBC - Patriots
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849263.m3u8
 #EXTINF:-1 tvg-name="[23:30] Kolombiya (Bayanlar) - Şili (Bayanlar)" group-title="Maç Yayınları",[23:30] Kolombiya (Bayanlar) - Şili (Bayanlar)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19924870.m3u8
-#EXTINF:-1 tvg-name="[23:30] Colombia (w) - Chile (w)" group-title="Maç Yayınları",[23:30] Colombia (w) - Chile (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39850073.m3u8
+#EXTINF:-1 tvg-name="[00:00] Lucas de Rio Verde - Minas Tenis Clube" group-title="Maç Yayınları",[00:00] Lucas de Rio Verde - Minas Tenis Clube
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39850325.m3u8
 #EXTINF:-1 tvg-name="[00:00] Sao Bernardo Volei U-19 (w) - Mogi Volei U-19 (w)" group-title="Maç Yayınları",[00:00] Sao Bernardo Volei U-19 (w) - Mogi Volei U-19 (w)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850393.m3u8
 #EXTINF:-1 tvg-name="[00:10] Cuba (w) - Puerto Rico (w)" group-title="Maç Yayınları",[00:10] Cuba (w) - Puerto Rico (w)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850383.m3u8
-#EXTINF:-1 tvg-name="[00:11] Rusya - Polonya" group-title="Maç Yayınları",[00:11] Rusya - Polonya
+#EXTINF:-1 tvg-name="[01:00] Sao Jose dos Campos U-21 - Volei Guarulhos U-21" group-title="Maç Yayınları",[01:00] Sao Jose dos Campos U-21 - Volei Guarulhos U-21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851123.m3u8
+#EXTINF:-1 tvg-name="[01:12] Brezilya - Japonya" group-title="Maç Yayınları",[01:12] Brezilya - Japonya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925264.m3u8
+#EXTINF:-1 tvg-name="[01:28] ABD - Brezilya" group-title="Maç Yayınları",[01:28] ABD - Brezilya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925188.m3u8
+#EXTINF:-1 tvg-name="[01:37] Çin (Bayanlar) - Brezilya (Bayanlar)" group-title="Maç Yayınları",[01:37] Çin (Bayanlar) - Brezilya (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925263.m3u8
+#EXTINF:-1 tvg-name="[01:39] Molniya (4x4) - Dinamo (4x4)" group-title="Maç Yayınları",[01:39] Molniya (4x4) - Dinamo (4x4)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925321.m3u8
+#EXTINF:-1 tvg-name="[01:41] Rusya - Polonya" group-title="Maç Yayınları",[01:41] Rusya - Polonya
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19925042.m3u8
-#EXTINF:-1 tvg-name="[00:13] Slovenya - Japonya" group-title="Maç Yayınları",[00:13] Slovenya - Japonya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924301.m3u8
-#EXTINF:-1 tvg-name="[00:14] Çin - Avustralya" group-title="Maç Yayınları",[00:14] Çin - Avustralya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924623.m3u8
-#EXTINF:-1 tvg-name="[00:20] Travers (4x4) - Vostok (4x4)" group-title="Maç Yayınları",[00:20] Travers (4x4) - Vostok (4x4)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924577.m3u8
-#EXTINF:-1 tvg-name="[00:37] Arjantin (Pro) - Uruguay (Pro)" group-title="Maç Yayınları",[00:37] Arjantin (Pro) - Uruguay (Pro)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924880.m3u8
-#EXTINF:-1 tvg-name="[00:40] Sırbistan (Bayanlar) - Türkiye (Bayanlar)" group-title="Maç Yayınları",[00:40] Sırbistan (Bayanlar) - Türkiye (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924355.m3u8
-#EXTINF:-1 tvg-name="[00:55] Rusya (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",[00:55] Rusya (Bayanlar) - ABD (Bayanlar)
+#EXTINF:-1 tvg-name="[01:41] Rusya (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",[01:41] Rusya (Bayanlar) - ABD (Bayanlar)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19924972.m3u8
-#EXTINF:-1 tvg-name="[00:57] Kanada - Arjantin" group-title="Maç Yayınları",[00:57] Kanada - Arjantin
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924661.m3u8
-#EXTINF:-1 tvg-name="[22:30] Brazil - Colombia" group-title="Maç Yayınları",[22:30] Brazil - Colombia
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849015.m3u8
-#EXTINF:-1 tvg-name="[23:30] Super Volei Santo Andre U-21 - EC Praia Grande U-21" group-title="Maç Yayınları",[23:30] Super Volei Santo Andre U-21 - EC Praia Grande U-21
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849963.m3u8
+#EXTINF:-1 tvg-name="[01:49] Slovakya - İtalya" group-title="Maç Yayınları",[01:49] Slovakya - İtalya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925342.m3u8
+#EXTINF:-1 tvg-name="[01:57] Uruguay (Pro) - Venezuela (Pro)" group-title="Maç Yayınları",[01:57] Uruguay (Pro) - Venezuela (Pro)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925251.m3u8
 #EXTINF:-1 tvg-name="[23:58] Clube De Regatas Brasil (w) - Matense (w)" group-title="Maç Yayınları",[23:58] Clube De Regatas Brasil (w) - Matense (w)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850415.m3u8
-#EXTINF:-1 tvg-name="[00:03] Luciano Darderi/Alejandro Tabilo - Arthur Rinderknech/Valentin Vacherot" group-title="Maç Yayınları",[00:03] Luciano Darderi/Alejandro Tabilo - Arthur Rinderknech/Valentin Vacherot
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39850349.m3u8
-#EXTINF:-1 tvg-name="[00:10] Andrey Rublev/Karen Khachanov - Lorenzo Musetti/Matteo Arnaldi" group-title="Maç Yayınları",[00:10] Andrey Rublev/Karen Khachanov - Lorenzo Musetti/Matteo Arnaldi
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39850351.m3u8
 #EXTINF:-1 tvg-name="[00:10] Maximo Zeitune - Felipe Meligeni Rodrigues Alves" group-title="Maç Yayınları",[00:10] Maximo Zeitune - Felipe Meligeni Rodrigues Alves
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850497.m3u8
-#EXTINF:-1 tvg-name="[00:11] Aryan Shah - Alejo Sanchez Quilez" group-title="Maç Yayınları",[00:11] Aryan Shah - Alejo Sanchez Quilez
+#EXTINF:-1 tvg-name="[01:13] Aryan Shah - Alejo Sanchez Quilez" group-title="Maç Yayınları",[01:13] Aryan Shah - Alejo Sanchez Quilez
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850507.m3u8
-#EXTINF:-1 tvg-name="[00:22] Adik Kshenskiy - Vladimir Kotov" group-title="Maç Yayınları",[00:22] Adik Kshenskiy - Vladimir Kotov
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924645.m3u8
-#EXTINF:-1 tvg-name="[22:06] Maya Joint - Liudmila Samsonova" group-title="Maç Yayınları",[22:06] Maya Joint - Liudmila Samsonova
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39848575.m3u8
-#EXTINF:-1 tvg-name="[22:10] Spencer Johnson - Andres Martin" group-title="Maç Yayınları",[22:10] Spencer Johnson - Andres Martin
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39848707.m3u8
-#EXTINF:-1 tvg-name="[22:11] Botic van de Zandschulp - Hubert Hurkacz" group-title="Maç Yayınları",[22:11] Botic van de Zandschulp - Hubert Hurkacz
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39848687.m3u8
+#EXTINF:-1 tvg-name="[01:19] Elise Mertens - Naomi Osaka" group-title="Maç Yayınları",[01:19] Elise Mertens - Naomi Osaka
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851135.m3u8
 #EXTINF:-1 tvg-name="[23:23] Lorena Schaedel/Saumya Vig - Ana Sofia Sanchez/Lucciana Perez Alarcon" group-title="Maç Yayınları",[23:23] Lorena Schaedel/Saumya Vig - Ana Sofia Sanchez/Lucciana Perez Alarcon
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39847705.m3u8
 #EXTINF:-1 tvg-name="[23:27] Kristina Mladenovic/Guo Hanyu - Aldila Sutjiadi/Erin Routliffe" group-title="Maç Yayınları",[23:27] Kristina Mladenovic/Guo Hanyu - Aldila Sutjiadi/Erin Routliffe
@@ -312,92 +326,102 @@ https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamlivechNone.m3u8
 #EXTINF:-1 tvg-name="[00:00] Costa Rica U-20 - USA U-20" group-title="Maç Yayınları",[00:00] Costa Rica U-20 - USA U-20
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850353.m3u8
+#EXTINF:-1 tvg-name="[00:15] ABB - Guabira" group-title="Maç Yayınları",[00:15] ABB - Guabira
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925055.m3u8
 #EXTINF:-1 tvg-name="[00:15] ABB - CD Guabira" group-title="Maç Yayınları",[00:15] ABB - CD Guabira
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850443.m3u8
-#EXTINF:-1 tvg-name="[00:18] Waalwijk (Amatörler) - Volendam (Amatörler)" group-title="Maç Yayınları",[00:18] Waalwijk (Amatörler) - Volendam (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925168.m3u8
-#EXTINF:-1 tvg-name="[00:26] Greuther Furth (Amatörler) - Darmstadt (Amatörler)" group-title="Maç Yayınları",[00:26] Greuther Furth (Amatörler) - Darmstadt (Amatörler)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925018.m3u8
-#EXTINF:-1 tvg-name="[00:30] Unión Comercio - Academia Deportiva Cantolao" group-title="Maç Yayınları",[00:30] Unión Comercio - Academia Deportiva Cantolao
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924725.m3u8
-#EXTINF:-1 tvg-name="[00:32] PSY - MECH" group-title="Maç Yayınları",[00:32] PSY - MECH
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925129.m3u8
-#EXTINF:-1 tvg-name="[00:43] Raccoons (2x2) - Wolves (2x2)" group-title="Maç Yayınları",[00:43] Raccoons (2x2) - Wolves (2x2)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925121.m3u8
-#EXTINF:-1 tvg-name="[00:51] Galaxy+ - Fire +" group-title="Maç Yayınları",[00:51] Galaxy+ - Fire +
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925058.m3u8
-#EXTINF:-1 tvg-name="[00:58] LANDSCAPE - FOSSIL" group-title="Maç Yayınları",[00:58] LANDSCAPE - FOSSIL
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925133.m3u8
-#EXTINF:-1 tvg-name="[00:58] Hoffenheim (Amatörler) - Hannover (Amatörler)" group-title="Maç Yayınları",[00:58] Hoffenheim (Amatörler) - Hannover (Amatörler)
+#EXTINF:-1 tvg-name="[00:30] Rubio Nu - Deportivo Recoleta" group-title="Maç Yayınları",[00:30] Rubio Nu - Deportivo Recoleta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925150.m3u8
+#EXTINF:-1 tvg-name="[00:30] Rubio Nu - Deportivo Recoleta" group-title="Maç Yayınları",[00:30] Rubio Nu - Deportivo Recoleta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39850633.m3u8
+#EXTINF:-1 tvg-name="[01:00] Comunicaciones - Villa San Carlos" group-title="Maç Yayınları",[01:00] Comunicaciones - Villa San Carlos
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925396.m3u8
+#EXTINF:-1 tvg-name="[01:00] Union Espanola - CD Antofagasta" group-title="Maç Yayınları",[01:00] Union Espanola - CD Antofagasta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851027.m3u8
+#EXTINF:-1 tvg-name="[01:00] Ituzaingo - Deportivo Camioneros" group-title="Maç Yayınları",[01:00] Ituzaingo - Deportivo Camioneros
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851255.m3u8
+#EXTINF:-1 tvg-name="[01:00] Club Comunicaciones - CA Villa San Carlos" group-title="Maç Yayınları",[01:00] Club Comunicaciones - CA Villa San Carlos
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851125.m3u8
+#EXTINF:-1 tvg-name="[01:00] 12 de Junio de Villa Hayes - Deportivo Santani" group-title="Maç Yayınları",[01:00] 12 de Junio de Villa Hayes - Deportivo Santani
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851167.m3u8
+#EXTINF:-1 tvg-name="[01:00] Cerro Largo FC - Juventud de Las Piedras" group-title="Maç Yayınları",[01:00] Cerro Largo FC - Juventud de Las Piedras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39850993.m3u8
+#EXTINF:-1 tvg-name="[01:00] Tanabi EC U-20 - Palmeiras U-20" group-title="Maç Yayınları",[01:00] Tanabi EC U-20 - Palmeiras U-20
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851023.m3u8
+#EXTINF:-1 tvg-name="[01:17] Revolution + - City +" group-title="Maç Yayınları",[01:17] Revolution + - City +
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925388.m3u8
+#EXTINF:-1 tvg-name="[01:17] Charlotte + - Sacramento +" group-title="Maç Yayınları",[01:17] Charlotte + - Sacramento +
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925328.m3u8
+#EXTINF:-1 tvg-name="[01:17] Hoffenheim (Amatörler) - Hannover (Amatörler)" group-title="Maç Yayınları",[01:17] Hoffenheim (Amatörler) - Hannover (Amatörler)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19925017.m3u8
-#EXTINF:-1 tvg-name="[00:58] Montreal + - Tampa Bay +" group-title="Maç Yayınları",[00:58] Montreal + - Tampa Bay +
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19925166.m3u8
-#EXTINF:-1 tvg-name="[23:15] Comerciantes Unidos - Cusco FC" group-title="Maç Yayınları",[23:15] Comerciantes Unidos - Cusco FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924711.m3u8
-#EXTINF:-1 tvg-name="[23:17] Comerciantes Unidos - Cusco FC" group-title="Maç Yayınları",[23:17] Comerciantes Unidos - Cusco FC
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849755.m3u8
-#EXTINF:-1 tvg-name="[23:17] Union Comercio - AD Cantolao" group-title="Maç Yayınları",[23:17] Union Comercio - AD Cantolao
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849783.m3u8
-#EXTINF:-1 tvg-name="[00:22] IPBL Scorpions - IPBL Huskies" group-title="Maç Yayınları",[00:22] IPBL Scorpions - IPBL Huskies
+#EXTINF:-1 tvg-name="[01:17] Arminia (Amatörler) - Greuther Furth (Amatörler)" group-title="Maç Yayınları",[01:17] Arminia (Amatörler) - Greuther Furth (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925359.m3u8
+#EXTINF:-1 tvg-name="[01:21] Augsburg (Amatörler) - Hoffenheim (Amatörler)" group-title="Maç Yayınları",[01:21] Augsburg (Amatörler) - Hoffenheim (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925358.m3u8
+#EXTINF:-1 tvg-name="[01:23] MINERALOGY - IT" group-title="Maç Yayınları",[01:23] MINERALOGY - IT
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925352.m3u8
+#EXTINF:-1 tvg-name="[01:27] Preto - Cruzmaltina" group-title="Maç Yayınları",[01:27] Preto - Cruzmaltina
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925383.m3u8
+#EXTINF:-1 tvg-name="[01:29] Runners - Outlaws" group-title="Maç Yayınları",[01:29] Runners - Outlaws
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925428.m3u8
+#EXTINF:-1 tvg-name="[01:31] Graafschap (Amatörler) - Excelsior (Amatörler)" group-title="Maç Yayınları",[01:31] Graafschap (Amatörler) - Excelsior (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925324.m3u8
+#EXTINF:-1 tvg-name="[01:40] 12 De Junio Villa Hayes - Deportivo Santaní" group-title="Maç Yayınları",[01:40] 12 De Junio Villa Hayes - Deportivo Santaní
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925417.m3u8
+#EXTINF:-1 tvg-name="[01:42] Unión Española - Deportes Antofagasta" group-title="Maç Yayınları",[01:42] Unión Española - Deportes Antofagasta
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925347.m3u8
+#EXTINF:-1 tvg-name="[01:43] Rambala (2x2) - Presto (2x2)" group-title="Maç Yayınları",[01:43] Rambala (2x2) - Presto (2x2)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925416.m3u8
+#EXTINF:-1 tvg-name="[01:53] ENERGY - CADASTRE" group-title="Maç Yayınları",[01:53] ENERGY - CADASTRE
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925356.m3u8
+#EXTINF:-1 tvg-name="[01:54] Benxi - Dingxi" group-title="Maç Yayınları",[01:54] Benxi - Dingxi
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925394.m3u8
+#EXTINF:-1 tvg-name="[01:55] Fiore (3x3) - Zampa (3x3)" group-title="Maç Yayınları",[01:55] Fiore (3x3) - Zampa (3x3)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925419.m3u8
+#EXTINF:-1 tvg-name="[01:57] Cerro Largo FC - Juventud de Las Piedras" group-title="Maç Yayınları",[01:57] Cerro Largo FC - Juventud de Las Piedras
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925330.m3u8
+#EXTINF:-1 tvg-name="[01:19] İtalya (TBL) - Malaysia (TBL)" group-title="Maç Yayınları",[01:19] İtalya (TBL) - Malaysia (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925291.m3u8
+#EXTINF:-1 tvg-name="[01:40] Meksika (TBL) - Peru (TBL)" group-title="Maç Yayınları",[01:40] Meksika (TBL) - Peru (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925288.m3u8
+#EXTINF:-1 tvg-name="[01:58] Surgut - Adler" group-title="Maç Yayınları",[01:58] Surgut - Adler
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925343.m3u8
+#EXTINF:-1 tvg-name="[01:59] IPBL Scorpions - IPBL Huskies" group-title="Maç Yayınları",[01:59] IPBL Scorpions - IPBL Huskies
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19925056.m3u8
-#EXTINF:-1 tvg-name="[00:25] REG - Patriots Kigali" group-title="Maç Yayınları",[00:25] REG - Patriots Kigali
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924465.m3u8
-#EXTINF:-1 tvg-name="[00:26] Peru (TBL) - İtalya (TBL)" group-title="Maç Yayınları",[00:26] Peru (TBL) - İtalya (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924948.m3u8
-#EXTINF:-1 tvg-name="[00:39] IPBL Vipers - IPBL Chameleons" group-title="Maç Yayınları",[00:39] IPBL Vipers - IPBL Chameleons
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924878.m3u8
-#EXTINF:-1 tvg-name="[00:43] Malaysia (TBL) - Meksika (TBL)" group-title="Maç Yayınları",[00:43] Malaysia (TBL) - Meksika (TBL)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924944.m3u8
-#EXTINF:-1 tvg-name="[00:50] Kurgan - Yakutsk" group-title="Maç Yayınları",[00:50] Kurgan - Yakutsk
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924979.m3u8
-#EXTINF:-1 tvg-name="[22:30] REG BBC - Patriots" group-title="Maç Yayınları",[22:30] REG BBC - Patriots
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849263.m3u8
 #EXTINF:-1 tvg-name="[23:30] Kolombiya (Bayanlar) - Şili (Bayanlar)" group-title="Maç Yayınları",[23:30] Kolombiya (Bayanlar) - Şili (Bayanlar)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19924870.m3u8
-#EXTINF:-1 tvg-name="[23:30] Colombia (w) - Chile (w)" group-title="Maç Yayınları",[23:30] Colombia (w) - Chile (w)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39850073.m3u8
+#EXTINF:-1 tvg-name="[00:00] Lucas de Rio Verde - Minas Tenis Clube" group-title="Maç Yayınları",[00:00] Lucas de Rio Verde - Minas Tenis Clube
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39850325.m3u8
 #EXTINF:-1 tvg-name="[00:00] Sao Bernardo Volei U-19 (w) - Mogi Volei U-19 (w)" group-title="Maç Yayınları",[00:00] Sao Bernardo Volei U-19 (w) - Mogi Volei U-19 (w)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850393.m3u8
 #EXTINF:-1 tvg-name="[00:10] Cuba (w) - Puerto Rico (w)" group-title="Maç Yayınları",[00:10] Cuba (w) - Puerto Rico (w)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850383.m3u8
-#EXTINF:-1 tvg-name="[00:11] Rusya - Polonya" group-title="Maç Yayınları",[00:11] Rusya - Polonya
+#EXTINF:-1 tvg-name="[01:00] Sao Jose dos Campos U-21 - Volei Guarulhos U-21" group-title="Maç Yayınları",[01:00] Sao Jose dos Campos U-21 - Volei Guarulhos U-21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851123.m3u8
+#EXTINF:-1 tvg-name="[01:12] Brezilya - Japonya" group-title="Maç Yayınları",[01:12] Brezilya - Japonya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925264.m3u8
+#EXTINF:-1 tvg-name="[01:28] ABD - Brezilya" group-title="Maç Yayınları",[01:28] ABD - Brezilya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925188.m3u8
+#EXTINF:-1 tvg-name="[01:37] Çin (Bayanlar) - Brezilya (Bayanlar)" group-title="Maç Yayınları",[01:37] Çin (Bayanlar) - Brezilya (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925263.m3u8
+#EXTINF:-1 tvg-name="[01:39] Molniya (4x4) - Dinamo (4x4)" group-title="Maç Yayınları",[01:39] Molniya (4x4) - Dinamo (4x4)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925321.m3u8
+#EXTINF:-1 tvg-name="[01:41] Rusya - Polonya" group-title="Maç Yayınları",[01:41] Rusya - Polonya
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19925042.m3u8
-#EXTINF:-1 tvg-name="[00:13] Slovenya - Japonya" group-title="Maç Yayınları",[00:13] Slovenya - Japonya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924301.m3u8
-#EXTINF:-1 tvg-name="[00:14] Çin - Avustralya" group-title="Maç Yayınları",[00:14] Çin - Avustralya
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924623.m3u8
-#EXTINF:-1 tvg-name="[00:20] Travers (4x4) - Vostok (4x4)" group-title="Maç Yayınları",[00:20] Travers (4x4) - Vostok (4x4)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924577.m3u8
-#EXTINF:-1 tvg-name="[00:37] Arjantin (Pro) - Uruguay (Pro)" group-title="Maç Yayınları",[00:37] Arjantin (Pro) - Uruguay (Pro)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924880.m3u8
-#EXTINF:-1 tvg-name="[00:40] Sırbistan (Bayanlar) - Türkiye (Bayanlar)" group-title="Maç Yayınları",[00:40] Sırbistan (Bayanlar) - Türkiye (Bayanlar)
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924355.m3u8
-#EXTINF:-1 tvg-name="[00:55] Rusya (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",[00:55] Rusya (Bayanlar) - ABD (Bayanlar)
+#EXTINF:-1 tvg-name="[01:41] Rusya (Bayanlar) - ABD (Bayanlar)" group-title="Maç Yayınları",[01:41] Rusya (Bayanlar) - ABD (Bayanlar)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech19924972.m3u8
-#EXTINF:-1 tvg-name="[00:57] Kanada - Arjantin" group-title="Maç Yayınları",[00:57] Kanada - Arjantin
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924661.m3u8
-#EXTINF:-1 tvg-name="[22:30] Brazil - Colombia" group-title="Maç Yayınları",[22:30] Brazil - Colombia
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849015.m3u8
-#EXTINF:-1 tvg-name="[23:30] Super Volei Santo Andre U-21 - EC Praia Grande U-21" group-title="Maç Yayınları",[23:30] Super Volei Santo Andre U-21 - EC Praia Grande U-21
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39849963.m3u8
+#EXTINF:-1 tvg-name="[01:49] Slovakya - İtalya" group-title="Maç Yayınları",[01:49] Slovakya - İtalya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925342.m3u8
+#EXTINF:-1 tvg-name="[01:57] Uruguay (Pro) - Venezuela (Pro)" group-title="Maç Yayınları",[01:57] Uruguay (Pro) - Venezuela (Pro)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech19925251.m3u8
 #EXTINF:-1 tvg-name="[23:58] Clube De Regatas Brasil (w) - Matense (w)" group-title="Maç Yayınları",[23:58] Clube De Regatas Brasil (w) - Matense (w)
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850415.m3u8
-#EXTINF:-1 tvg-name="[00:03] Luciano Darderi/Alejandro Tabilo - Arthur Rinderknech/Valentin Vacherot" group-title="Maç Yayınları",[00:03] Luciano Darderi/Alejandro Tabilo - Arthur Rinderknech/Valentin Vacherot
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39850349.m3u8
-#EXTINF:-1 tvg-name="[00:10] Andrey Rublev/Karen Khachanov - Lorenzo Musetti/Matteo Arnaldi" group-title="Maç Yayınları",[00:10] Andrey Rublev/Karen Khachanov - Lorenzo Musetti/Matteo Arnaldi
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39850351.m3u8
 #EXTINF:-1 tvg-name="[00:10] Maximo Zeitune - Felipe Meligeni Rodrigues Alves" group-title="Maç Yayınları",[00:10] Maximo Zeitune - Felipe Meligeni Rodrigues Alves
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850497.m3u8
-#EXTINF:-1 tvg-name="[00:11] Aryan Shah - Alejo Sanchez Quilez" group-title="Maç Yayınları",[00:11] Aryan Shah - Alejo Sanchez Quilez
+#EXTINF:-1 tvg-name="[01:13] Aryan Shah - Alejo Sanchez Quilez" group-title="Maç Yayınları",[01:13] Aryan Shah - Alejo Sanchez Quilez
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39850507.m3u8
-#EXTINF:-1 tvg-name="[00:22] Adik Kshenskiy - Vladimir Kotov" group-title="Maç Yayınları",[00:22] Adik Kshenskiy - Vladimir Kotov
-https://andro.evrenesoglu57.click/checklist/androstreamlivech19924645.m3u8
-#EXTINF:-1 tvg-name="[22:06] Maya Joint - Liudmila Samsonova" group-title="Maç Yayınları",[22:06] Maya Joint - Liudmila Samsonova
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39848575.m3u8
-#EXTINF:-1 tvg-name="[22:10] Spencer Johnson - Andres Martin" group-title="Maç Yayınları",[22:10] Spencer Johnson - Andres Martin
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39848707.m3u8
-#EXTINF:-1 tvg-name="[22:11] Botic van de Zandschulp - Hubert Hurkacz" group-title="Maç Yayınları",[22:11] Botic van de Zandschulp - Hubert Hurkacz
-https://andro.evrenesoglu57.click/checklist/androstreamlivech39848687.m3u8
+#EXTINF:-1 tvg-name="[01:19] Elise Mertens - Naomi Osaka" group-title="Maç Yayınları",[01:19] Elise Mertens - Naomi Osaka
+https://andro.evrenesoglu57.click/checklist/androstreamlivech39851135.m3u8
 #EXTINF:-1 tvg-name="[23:23] Lorena Schaedel/Saumya Vig - Ana Sofia Sanchez/Lucciana Perez Alarcon" group-title="Maç Yayınları",[23:23] Lorena Schaedel/Saumya Vig - Ana Sofia Sanchez/Lucciana Perez Alarcon
 https://andro.evrenesoglu57.click/checklist/androstreamlivech39847705.m3u8
 #EXTINF:-1 tvg-name="[23:27] Kristina Mladenovic/Guo Hanyu - Aldila Sutjiadi/Erin Routliffe" group-title="Maç Yayınları",[23:27] Kristina Mladenovic/Guo Hanyu - Aldila Sutjiadi/Erin Routliffe
